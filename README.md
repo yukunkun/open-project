@@ -36,7 +36,7 @@
 ![](https://github.com/wasabeef/Blurry/raw/master/art/blurry.gif)
 
 ### `SmartRefreshLayout`加载刷新，不再担忧，这里有各种效果。大牛就是大牛，只要你能想到，就能实现
-[](https://github.com/scwang90/SmartRefreshLayout)
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
 
 ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_weibo.gif) ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_FlyRefresh.gif)
 
