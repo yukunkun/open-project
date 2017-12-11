@@ -1,5 +1,4 @@
 # open-project
-项目中常见的第三方库汇总
 ### 项目中常见的第三方库的简单汇总，持续更新中...
 ### `CircleImageView`圆形的图片或者头像，有它就够了，还可以任意添加图片边框
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
