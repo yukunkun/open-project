@@ -1,5 +1,21 @@
 # open-project
 ### 项目中常见的第三方库的简单汇总，持续更新中...
+
+### `SmartRefreshLayout`加载刷新，不再担忧，这里有各种效果。大牛就是大牛，只要你能想到，就能实现
+[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
+
+![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_weibo.gif) ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_FlyRefresh.gif)
+
+### `RetailMeNotList`这个效果有点6,简单的列表数据，实现起来还是不错的，创新很重要,名字有点怪而已
+[RetailMeNotList](https://github.com/iielse/RetailMeNotList)
+
+![](https://github.com/iielse/RetailMeNotList/raw/master/previews/123456789.gif) ![](https://github.com/iielse/RetailMeNotList/raw/master/previews/987654321.gif)
+
+### `BMoveView`奇葩天天有，这里就有一个，`RadioGroup`添加了线条的特效。看着还是不错的
+[BMoveView](https://github.com/yukunkun/BMoveView)
+
+![](https://camo.githubusercontent.com/f80e80466f41a03b8c70cd8a41fc442681371ae7/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333030313435332d303266376532613837323464616364392e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+
 ### `CircleImageView`圆形的图片或者头像，有它就够了，还可以任意添加图片边框
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 
@@ -34,21 +50,6 @@
 [overscroll-decor](https://github.com/wasabeef/Blurry)
 
 ![](https://github.com/wasabeef/Blurry/raw/master/art/blurry.gif)
-
-### `SmartRefreshLayout`加载刷新，不再担忧，这里有各种效果。大牛就是大牛，只要你能想到，就能实现
-[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
-
-![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_weibo.gif) ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_FlyRefresh.gif)
-
-### `RetailMeNotList`这个效果有点6,简单的列表数据，实现起来还是不错的，创新很重要,名字有点怪而已
-[RetailMeNotList](https://github.com/iielse/RetailMeNotList)
-
-![](https://github.com/iielse/RetailMeNotList/raw/master/previews/123456789.gif) ![](https://github.com/iielse/RetailMeNotList/raw/master/previews/987654321.gif)
-
-### `BMoveView`奇葩天天有，这里就有一个，`RadioGroup`添加了线条的特效。看着还是不错的
-[BMoveView](https://github.com/yukunkun/BMoveView)
-
-![](https://camo.githubusercontent.com/f80e80466f41a03b8c70cd8a41fc442681371ae7/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333030313435332d303266376532613837323464616364392e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
 
 ### `RangeSeekBar``sekbar`用过吧，两边都能移动的`seekbar`呢?这个可以有！
 [RangeSeekBar](https://github.com/iielse/RangeSeekBar)
