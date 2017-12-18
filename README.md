@@ -16,6 +16,11 @@
 
 ![](https://camo.githubusercontent.com/f80e80466f41a03b8c70cd8a41fc442681371ae7/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333030313435332d303266376532613837323464616364392e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
 
+### 酷炫的３D，看着就是牛，效果很棒
+[StereoView](https://github.com/ImmortalZ/StereoView)
+
+![](https://github.com/ImmortalZ/StereoView/raw/master/img/3.gif)
+
 ### `CircleImageView`圆形的图片或者头像，有它就够了，还可以任意添加图片边框
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 
