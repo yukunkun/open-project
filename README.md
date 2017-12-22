@@ -21,10 +21,15 @@
 
 ![](https://github.com/ImmortalZ/StereoView/raw/master/img/3.gif)
 
+### `RotateView`抽奖大转盘，合适的，可以有
+[RotateView](https://github.com/yukunkun/RotateView)
+
+![](https://camo.githubusercontent.com/508a6063299fcc96d7683b8fcd22971b6799fc34/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333030313435332d643730613237633666393661343733332e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
+
 ### `CircleImageView`圆形的图片或者头像，有它就够了，还可以任意添加图片边框
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 
-![](https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67)
+![S771011-14425058.jpg](http://upload-images.jianshu.io/upload_images/3001453-d70a27c6f96a4733.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### `RoundedImageView`不想要那么圆的图片怎么办，这里有啊。可以分别设置每个角落的round值，要多少随便你。
 [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
