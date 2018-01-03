@@ -30,6 +30,9 @@
  [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
  ![](https://github.com/pinguo-zhouwei/CustomPopwindow/raw/master/image/pop_window.gif)
  
+ ### 沉浸状态栏，用这个就可以了
+ [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
+ ![](https://github.com/gyf-dev/Screenshots/raw/master/ImmersionBar/Screenshot_6.0.gif)
  
 ### `CircleImageView`圆形的图片或者头像，有它就够了，还可以任意添加图片边框
 [CircleImageView](https://github.com/hdodenhof/CircleImageView) 
