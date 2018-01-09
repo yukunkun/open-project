@@ -34,6 +34,13 @@
  [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
  ![](https://github.com/gyf-dev/Screenshots/raw/master/ImmersionBar/Screenshot_6.0.gif)
  
+ ### 多部局再也不怕了，阿里出品，必是精品
+ [vlayout](https://github.com/alibaba/vlayout)
+ 
+ [VlayoutTest](https://github.com/OnexZgj/VlayoutTest)
+ 
+ ![](https://camo.githubusercontent.com/2b947a15f5502af5a4639a5927d68052ccfb54a3/687474703a2f2f696d67332e746263646e2e636e2f4c312f3436312f312f31623962666234323030393034376637356365653038616537343135303564653263373461633061)
+ 
 ### `CircleImageView`圆形的图片或者头像，有它就够了，还可以任意添加图片边框
 [CircleImageView](https://github.com/hdodenhof/CircleImageView) 
 
