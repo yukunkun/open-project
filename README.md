@@ -6,7 +6,7 @@
 
 ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_practive_weibo.gif) ![](https://github.com/scwang90/SmartRefreshLayout/raw/master/art/gif_FlyRefresh.gif)
 
-### `RetailMeNotList`这个效果有点6,简单的列表数据，实现起来还是不错的，创新很重要,名字有点怪而已
+### `RetailMeNotList`这个效果有点6,简单的列表数据，实现起来还是不错的，创新很重要,名字有点怪而已 
 [RetailMeNotList](https://github.com/iielse/RetailMeNotList) 
 
 ![](https://github.com/iielse/RetailMeNotList/raw/master/previews/123456789.gif) ![](https://github.com/iielse/RetailMeNotList/raw/master/previews/987654321.gif)
