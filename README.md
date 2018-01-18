@@ -102,3 +102,7 @@
 ### `EventBus`传值不再担忧，回调接口不用再漫天飞翔。注解方式的传值，也不用担心线程，四大组件传值的问题了。
 [EventBus](https://github.com/greenrobot/EventBus)
 
+### 视频编辑 
+#### 基于FFmpeg开发的视频处理框架，简单易用，体积小，帮助使用者快速实现视频处理功能。包含以下功能：剪辑，裁剪，旋转，镜像，合并，分离，添加LOGO，添加滤镜，添加背景音乐。
+[EpMedia](https://github.com/yangjie10930/EpMedia)
+
